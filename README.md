@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YunziX
 - 👀 I’m interested in R-Studio coding
-- 🌱 I’m currently learning FRM
 - 💞️ I’m looking to collaborate on R-Studio coding
 - 📫 How to reach me ...
 
